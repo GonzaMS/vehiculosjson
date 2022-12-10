@@ -1,0 +1,29 @@
+{
+  "posts": [
+  {
+    "id": 1,
+    "marca": "Toyota",
+    "modelo": "Allion"
+  },
+  {
+    "id": 2,
+    "marca": "Toyota",
+    "modelo": "Hilux"
+  },
+  {
+    "id": 1,
+    "marca": "Ford",
+    "modelo": "Mustang"
+  },
+  {
+    "id": 1,
+    "marca": "KIA",
+    "modelo": "Sportage"
+  },
+  {
+    "id": 1,
+    "marca": "KIA",
+    "modelo": "Picanto"
+  }
+ ]
+}
